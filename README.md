@@ -1,10 +1,6 @@
 # Alzheimer-s-patient-monitoring-system
 Designed an IoT-based system to monitor Alzheimer's patients in real time, enabling location tracking, emergency alerts, &amp; hygiene monitoring. Aimed at improving patient safety &amp; reducing caregiver dependency. Future scope includes integrating Ai for behavior prediction &amp; mobile app support for enhanced remote care.
 
-# 🧠 Alzheimer’s Patient Monitoring System
-
-An IoT-powered smart healthcare solution designed to monitor Alzheimer's patients in real-time, detect falls, track location, and alert caregivers instantly. Developed using ESP32, multiple sensors, and integrated with Adafruit IO for cloud-based monitoring.
-
 ---
 
 ## 🧩 Project Structure
