@@ -102,32 +102,9 @@ Caregiver 👨‍⚕️ receives alerts
 
 ---
 
-## 📚 Report & Documentation
-
-Full project report is available in [`Final Report.pdf`](Final Report.pdf)
-
----
-
-## 👥 Team Members
-
-- Chandana N S – [4MN21EC007]
-- Kaviya S – [4MN21EC015]
-- Mohith M – [4MN21EC019]
-- Manoj Kumar B S – [4MN22EC410]
-
-**Guide:** Dr. M G Srinivasa, Associate Professor, ECE Dept., MIT Thandavapura
-
----
-
 ## 📄 License
 
 This project is for academic research and educational purposes only.
 
----
-
-## 📫 Contact
-
-For queries or collaborations:  
-**Mohith M** – mohithece@gmail.com  
-Department of Electronics and Communication, MIT Thandavapura  
+  
 
