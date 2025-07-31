@@ -87,6 +87,10 @@ Caregiver 👨‍⚕️ receives alerts
 
 > Videos of implementation, alerts on mobile, and LCD interface will be added here.
 
+![WhatsApp Image 2025-07-31 at 13 05 48_83c06095](https://github.com/user-attachments/assets/5e297487-debc-41dd-bb19-dea5ec66a7e5)
+![WhatsApp Image 2025-07-31 at 13 12 39_e782ff04](https://github.com/user-attachments/assets/ceffcde1-16e4-45b2-b5d1-2c13963dbb97)
+![WhatsApp Image 2025-07-31 at 13 05 49_a7585343](https://github.com/user-attachments/assets/e90ad9e7-352f-40e2-b699-cbd01ef72839)
+![WhatsApp Image 2025-07-31 at 13 15 56_8a7b5d31](https://github.com/user-attachments/assets/aeddd3ba-eeb9-4272-af22-f4f68aa762f9)
 ---
 
 ## 📊 Results
